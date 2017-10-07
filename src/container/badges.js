@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import Badge from 'material-ui/Badge';
 import MailIcon from 'material-ui-icons/Mail';
 import FolderIcon from 'material-ui-icons/Folder';
 import withStyles from 'material-ui/styles/withStyles';
 import withRoot from '../components/withRoot';
+import Badge from '../components/badge';
 
 const styles = theme => ({
   badge: {

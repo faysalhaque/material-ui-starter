@@ -12,7 +12,9 @@
     "react-dom": "^16.0.0",
     "react-jss": "latest",
     "react-scripts": "1.0.14",
-    "recompose": "latest"
+    "recompose": "latest",
+    "styled-components": "^2.2.1",
+    "styled-theme": "^0.3.3"
   },
   "scripts": {
     "start": "react-scripts start",
